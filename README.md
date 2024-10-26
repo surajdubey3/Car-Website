@@ -1,0 +1,1 @@
+Car Website is an online marketplace for buying both new and used cars. The platform connects buyers with certified dealerships for new vehicles and verified sellers for reliable used cars, making it simple to browse, compare, and purchase
